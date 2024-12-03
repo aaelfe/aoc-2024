@@ -1,0 +1,1 @@
+Solutions are in the solutions directory. Naming convention is ${day}-${segment}
